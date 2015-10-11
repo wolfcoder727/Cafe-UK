@@ -232,6 +232,8 @@ ul.dropdown-cart li .item-right button{
 }
 
 /*Added code 9/20/15*/
+
+/*SUBJECT FOR REMOVAL.*/
 body
 {
     padding-top: 20px;
@@ -300,3 +302,19 @@ body
     background-color: #DDD;
     border-color: #DDD;
 }
+
+/*End of added code 9/20/15*/
+
+/*Added Code 10/11/15*/
+.custab{
+    border: 1px solid #ccc;
+    padding: 5px;
+    margin: 5% 0;
+    box-shadow: 3px 3px 2px #ccc;
+    transition: 0.5s;
+    }
+.custab:hover{
+    box-shadow: 3px 3px 0px transparent;
+    transition: 0.5s;
+    }
+/*End of added code 10/11/15*/
